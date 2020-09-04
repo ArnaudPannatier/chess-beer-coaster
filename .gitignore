@@ -1,0 +1,4 @@
+*.aux
+*.log
+.command
+.DS_Store
