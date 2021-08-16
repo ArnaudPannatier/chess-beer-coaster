@@ -1,0 +1,29 @@
+[Event "?"]
+[Result "1-0"]
+[FEN "8/8/3Rp3/1P2k3/3Np3/2B5/8/5RK1 w - - 0 1"]
+[Round "1"]
+[Comment "Aux blancs de jouer, mat en 1."]
+
+1.Nf5# 1-0
+
+*
+
+[Event "?"]
+[Result "1-0"]
+[FEN "2q3k1/4Qp1p/p2Pn1pB/1p1r4/8/1P5P/1P4P1/4R1K1 w - - 0 1"]
+[Round "2"]
+[Comment "Aux blancs de jouer, exploitez la faiblesse sur les cases noires."]
+
+1. Rxe6 1-0
+
+*
+
+[Event "?"]
+[Result "1/2-1/2"]
+[FEN "7k/3q4/6Q1/3p2K1/3P1P2/4P3/8/8 b - - 0 1"]
+[Round "3"]
+[Comment "Aux noirs de jouer, sauvez la partie."]
+
+1... Qg4+ 2. Kh6 Qg5+ 1/2-1/2
+
+*
